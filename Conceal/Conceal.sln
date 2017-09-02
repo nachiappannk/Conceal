@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceal", "Conceal\Conceal.csproj", "{4944F7EE-17A8-48B0-BEF8-E5991F57DBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcealTests", "ConcealTests\ConcealTests.csproj", "{ECDB9786-8D8E-438E-8A94-A657668B1CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcealConsole", "ConcealConsole\ConcealConsole.csproj", "{E1A8BA7C-AC89-4959-9869-D5ADD5D0890B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4944F7EE-17A8-48B0-BEF8-E5991F57DBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4944F7EE-17A8-48B0-BEF8-E5991F57DBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4944F7EE-17A8-48B0-BEF8-E5991F57DBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4944F7EE-17A8-48B0-BEF8-E5991F57DBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDB9786-8D8E-438E-8A94-A657668B1CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDB9786-8D8E-438E-8A94-A657668B1CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDB9786-8D8E-438E-8A94-A657668B1CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDB9786-8D8E-438E-8A94-A657668B1CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A8BA7C-AC89-4959-9869-D5ADD5D0890B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A8BA7C-AC89-4959-9869-D5ADD5D0890B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A8BA7C-AC89-4959-9869-D5ADD5D0890B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A8BA7C-AC89-4959-9869-D5ADD5D0890B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
